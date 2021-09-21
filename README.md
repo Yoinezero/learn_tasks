@@ -1,0 +1,51 @@
+These are my python learning projects
+- codewars
+- - alpha_num_of_letters.py
+- - avalance_of_nums.py
+- - Calculator.py
+- - fast_factor.py
+- - find_hidden_word.py
+- - get_det.py
+- - is_my_friend_cheating(math).py
+- - simple_proj
+- - - encrypt_decrypt_text.py
+- - - test.py
+- - sudoku_solver.py
+- cources
+- - anagrams_check.py
+- - caesar_coder.py
+- - files
+- - - letters_histogram.py
+- - get_digit_of_life.py
+- - hash_clock.py
+- - letters_freq.py
+- - OOP_n_files
+- - - student.py
+- - - students_exceptions.py
+- - - table_processing.py
+- - palindrome_check.py
+- - sudoku_checker.py
+- - tictactoe.py
+- - what_is_date.py
+- education
+- - django
+- - flask
+- - numpy
+- - - milestone.py
+- - pygame
+- - pyramid
+- projects
+- - auto_readme_maker
+- - - readmerer.py
+- - GD
+- - - gradient_drawer.py
+- university
+- - ifs
+- - - crystall.py
+- - - functions_system.py
+- - koch.py
+- - l_system.py
+- - pythagoras_trees.py
+- - serpinski.py
+- - serp_sq.py
+- - sif.py
